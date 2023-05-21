@@ -34,7 +34,7 @@
 				out.println(p.consultarTodo());
 				%>
 				<br>
-				<h1>CAMBIAR PRECIO</h1>
+				<h1>BORRAR PRODUCTO</h1>
 				<form action="delete.jsp" method="post" id="formulario">
 					<table border=1>
 						<tr>

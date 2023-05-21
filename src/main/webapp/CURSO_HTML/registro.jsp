@@ -50,7 +50,7 @@
 					</tr>
 					<tr>
 						<td>Mes y año de nacimiento:</td>
-						<td><input type="month" name="fecha" /></td>
+						<td><input type="date" name="fecha" /></td>
 					</tr>
 					<tr>
 						<td>Color favorito:</td>
